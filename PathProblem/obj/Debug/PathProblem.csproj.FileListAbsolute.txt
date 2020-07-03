@@ -1,0 +1,7 @@
+D:\kejual projects\Practice\PathProblem\PathProblem\bin\Debug\PathProblem.exe.config
+D:\kejual projects\Practice\PathProblem\PathProblem\bin\Debug\PathProblem.exe
+D:\kejual projects\Practice\PathProblem\PathProblem\bin\Debug\PathProblem.pdb
+D:\kejual projects\Practice\PathProblem\PathProblem\obj\Debug\PathProblem.csprojAssemblyReference.cache
+D:\kejual projects\Practice\PathProblem\PathProblem\obj\Debug\PathProblem.csproj.CoreCompileInputs.cache
+D:\kejual projects\Practice\PathProblem\PathProblem\obj\Debug\PathProblem.exe
+D:\kejual projects\Practice\PathProblem\PathProblem\obj\Debug\PathProblem.pdb
